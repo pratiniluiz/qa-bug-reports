@@ -35,8 +35,7 @@ Always
 High
 
 ### Evidence
-🎥 Video (YouTube – Unlisted):  
-[https://youtube.com/XXXXXXXX](https://youtu.be/KlnLpIt_F0U)
+🎥 Video (YouTube – Unlisted): https://youtu.be/KlnLpIt_F0U
 
 ### Notes
 Occurs with leaves, glass, slabs, chests and ice.  
